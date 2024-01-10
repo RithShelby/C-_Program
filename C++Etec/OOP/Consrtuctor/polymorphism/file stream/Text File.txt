@@ -1,0 +1,20 @@
+/*Text File/
+ofstream : write
+ifstream : read
+fstream  : write & read
+=============================
+
+ios::out : write(mod)
+ios::in  : read(mod)
+ios::app : append(mod)
+
+/* Binary file/
+ofstream : write
+ifstream : read
+fstream  : write & read
+============================
+ios::out : write(mod) |ios::binary
+ios::in  : read(mod)	|ios::binary
+ios::app : append(mod)|ios::binary
+
+

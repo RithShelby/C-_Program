@@ -1,0 +1,1 @@
+file.write((char *)&emp,sizeof(emp));
